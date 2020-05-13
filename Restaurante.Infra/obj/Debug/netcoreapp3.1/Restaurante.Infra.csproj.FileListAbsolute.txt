@@ -1,0 +1,16 @@
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/bin/Debug/netcoreapp3.1/Restaurante.Infra.deps.json
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/bin/Debug/netcoreapp3.1/Restaurante.Infra.dll
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/bin/Debug/netcoreapp3.1/Restaurante.Infra.pdb
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/bin/Debug/netcoreapp3.1/Restaurante.Application.dll
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/bin/Debug/netcoreapp3.1/Restaurante.Data.dll
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/bin/Debug/netcoreapp3.1/Restaurante.Domain.dll
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/bin/Debug/netcoreapp3.1/Restaurante.Application.pdb
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/bin/Debug/netcoreapp3.1/Restaurante.Data.pdb
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/bin/Debug/netcoreapp3.1/Restaurante.Domain.pdb
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/obj/Debug/netcoreapp3.1/Restaurante.Infra.csprojAssemblyReference.cache
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/obj/Debug/netcoreapp3.1/Restaurante.Infra.csproj.CoreCompileInputs.cache
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/obj/Debug/netcoreapp3.1/Restaurante.Infra.AssemblyInfoInputs.cache
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/obj/Debug/netcoreapp3.1/Restaurante.Infra.AssemblyInfo.cs
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/obj/Debug/netcoreapp3.1/Restaurante.Infra.csproj.CopyComplete
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/obj/Debug/netcoreapp3.1/Restaurante.Infra.dll
+/Users/administrador/Projects/Restaurante/Restaurante.Infra/obj/Debug/netcoreapp3.1/Restaurante.Infra.pdb

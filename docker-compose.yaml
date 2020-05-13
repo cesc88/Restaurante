@@ -1,0 +1,17 @@
+version: '3'
+
+services: 
+    restaurante:
+        image: restaurante
+        build: 
+            context: .
+        ports: 
+            - "20000:80"
+        depends_on: 
+            - "sqlserver"
+            
+sqlserver:
+        image: "microsoft/mssql-server-linux:2017-latest"
+        environment: 
+            SA_PASSWORD: "Your_Passwor"
+            ACCEPT_EULA: "Y"        

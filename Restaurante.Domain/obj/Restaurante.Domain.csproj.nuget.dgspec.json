@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/administrador/Projects/Restaurante/Restaurante.Domain/Restaurante.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/administrador/Projects/Restaurante/Restaurante.Domain/Restaurante.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/administrador/Projects/Restaurante/Restaurante.Domain/Restaurante.Domain.csproj",
+        "projectName": "Restaurante.Domain",
+        "projectPath": "/Users/administrador/Projects/Restaurante/Restaurante.Domain/Restaurante.Domain.csproj",
+        "packagesPath": "/Users/administrador/.nuget/packages/",
+        "outputPath": "/Users/administrador/Projects/Restaurante/Restaurante.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/administrador/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
