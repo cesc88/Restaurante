@@ -53,5 +53,5 @@ steps:
     package: $(System.DefaultWorkingDirectory)/**/*.zip
     JSONFiles: |
       **/*.json
-      **/*.appsettings.json 
+      **/appsettings.json 
       
