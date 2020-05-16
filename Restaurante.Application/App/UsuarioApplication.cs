@@ -8,7 +8,7 @@ using System;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Restaurante.Application.App
+namespace Restaurante.Application
 {
     public class UsuarioApplication : IUsuarioApplication
     {

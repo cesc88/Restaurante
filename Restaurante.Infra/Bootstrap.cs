@@ -29,6 +29,7 @@ namespace Restaurante.Infra
             services.AddScoped<IPratosIngredientesApplication, PratosIngredientesApplication>();
             services.AddScoped<IPratoApplication, PratoApplication>();
             services.AddScoped<ITipoPratoApplication, TipopratoApplication>();
+            services.AddScoped<IUsuarioApplication, UsuarioApplication>();
 
             services.AddDbContext<Context>(opt =>
             opt.UseSqlServer(configuration.GetConnectionString("MyConnection")));
