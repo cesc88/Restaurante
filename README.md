@@ -1,6 +1,6 @@
 # WebApi Restaurante
 
-## Tecnológias utilidade
+## Tecnológias Utilizadas
 
 * Linq e Lambda
 * EF Core - EntityFrameWorkCore
@@ -8,8 +8,10 @@
 * AutoMapper
 * .Net Core
 * Swagger
+* IdentityServer 4
 * JWT - Authentication
 * Docker
+* Azure DevOps
 
 ## Estrutura do Projeto
 
