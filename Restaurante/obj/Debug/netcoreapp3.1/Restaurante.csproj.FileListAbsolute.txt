@@ -80,3 +80,10 @@
 /Users/administrador/Projects/Restaurante/Restaurante/obj/Debug/netcoreapp3.1/Restaurante.pdb
 /Users/administrador/Projects/Restaurante/Restaurante/obj/Debug/netcoreapp3.1/Restaurante.genruntimeconfig.cache
 /Users/administrador/Projects/Restaurante/Restaurante/obj/Debug/netcoreapp3.1/Restaurante.csprojAssemblyReference.cache
+/Users/administrador/Projects/Restaurante/Restaurante/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/administrador/Projects/Restaurante/Restaurante/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/administrador/Projects/Restaurante/Restaurante/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/administrador/Projects/Restaurante/Restaurante/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/administrador/Projects/Restaurante/Restaurante/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/administrador/Projects/Restaurante/Restaurante/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/administrador/Projects/Restaurante/Restaurante/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
